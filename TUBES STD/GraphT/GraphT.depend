@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1734858573 source:e:\fathia doc semester 3\struktur data\tubes std\grapht\grapht.cpp
+	"GraphT.h"
+
+1734779536 e:\fathia doc semester 3\struktur data\tubes std\grapht\grapht.h
+	<iostream>
+
+1734779535 source:e:\fathia doc semester 3\struktur data\tubes std\grapht\main.cpp
+	"GraphT.h"
+
